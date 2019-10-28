@@ -1,0 +1,44 @@
+{
+  "id": "1480902",
+  "name": "HealthFarming",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "940601",
+      "name": "翻牌",
+      "font_class": "fp",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2739069",
+      "name": "购物",
+      "font_class": "gw",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "6536289",
+      "name": "首页-选中",
+      "font_class": "index-xz",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10434753",
+      "name": "我 的",
+      "font_class": "me",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "10635153",
+      "name": "卡片",
+      "font_class": "kp",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    }
+  ]
+}
